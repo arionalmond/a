@@ -4,12 +4,12 @@ status panel for my servers
 ## this project
 This is [nextjs](https://nextjs.org/) project.  
 With NextJS you can 
-[start with an example](https://nextjs.org/docs/app/api-reference/cli/create-next-app#with-an-official-nextjs-example), 
-[github-pages example](https://github.com/vercel/next.js/tree/canary/examples/github-pages) supports deploying a statically exported Next.js application to GitHub Pages!    
+[start with an example](https://nextjs.org/docs/app/api-reference/cli/create-next-app#with-an-official-nextjs-example). The 
+[github-pages example](https://github.com/vercel/next.js/tree/canary/examples/github-pages) supports deploying a statically exported Next.js application to GitHub Pages.  
 
 I went the [manual install](https://nextjs.org/docs/getting-started/installation#manual-installation) route.
 
-Make sure to not add your `out` directory to `.gitignore`. Next uses out for the production build of the app.    
+Make sure to not add your `out/` directory to `.gitignore`. Next uses `out/` for the production build of the app.    
 
 ## setup
 mainly folowing the [manual install](https://nextjs.org/docs/getting-started/installation#manual-installation)  

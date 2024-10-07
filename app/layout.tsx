@@ -27,7 +27,7 @@ export default function RootLayout({
     <html lang="en">
       {/* Layout UI */}
       <body>
-        <h3>Navigation</h3>
+        {/* <h1>Navigation</h1> */}
         {/* <ol> */}
         {/* <p><Link href="/">Home</Link></p> */}
         {/* </ol> */}

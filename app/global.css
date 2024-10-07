@@ -3,5 +3,18 @@ body {
     max-width: 680px;
     margin: 0 auto;
     background-color: grey;
-    color: black;
+}
+
+#banner {
+    background-color: black;
+    color: gray;
+}
+
+#gpps {
+    background-color: black;
+    color: gray;
+}
+
+a {
+    color: gray;
 }
